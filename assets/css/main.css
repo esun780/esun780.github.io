@@ -156,7 +156,7 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #E4F1ED;
+		background-color: #D4DAD8;
 		color: #444545;
 	}
 
@@ -328,7 +328,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #B5FFE9;
+			color: #5F4B34;
 		}
 
 	strong, b {
@@ -2200,8 +2200,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 1px #B5FFE9;
-			color: #B5FFE9 !important;
+			box-shadow: inset 0 0 0 1px #5F4B34;
+			color: #5F4B34 !important;
 		}
 
 		input[type="submit"]:active,
@@ -2210,8 +2210,8 @@ input, select, textarea {
 		button:active,
 		.button:active {
 			background-color: rgba(71, 211, 229, 0.2);
-			box-shadow: inset 0 0 0 1px #B5FFE9;
-			color: #B5FFE9 !important;
+			box-shadow: inset 0 0 0 1px #5F4B34;
+			color: #5F4B34 !important;
 		}
 
 		input[type="submit"].primary,
@@ -2221,7 +2221,7 @@ input, select, textarea {
 		.button.primary {
 			background-color: #444545;
 			box-shadow: none;
-			color: #E4F1ED !important;
+			color: #D4DAD8 !important;
 		}
 
 			input[type="submit"].primary:hover,
@@ -2229,7 +2229,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #B5FFE9;
+				background-color: #5F4B34;
 			}
 
 			input[type="submit"].primary:active,
@@ -2619,14 +2619,14 @@ input, select, textarea {
 	}
 
 	a.icon.style2:hover:before {
-		box-shadow: inset 0 0 0 1px #B5FFE9;
-		color: #B5FFE9;
+		box-shadow: inset 0 0 0 1px #5F4B34;
+		color: #5F4B34;
 	}
 
 	a.icon.style2:active:before {
 		background-color: rgba(71, 211, 229, 0.1);
-		box-shadow: inset 0 0 0 1px #B5FFE9;
-		color: #B5FFE9;
+		box-shadow: inset 0 0 0 1px #5F4B34;
+		color: #5F4B34;
 	}
 
 /* Image */
