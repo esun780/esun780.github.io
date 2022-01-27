@@ -156,7 +156,7 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #C5E0D8;
+		background-color: #E4F1ED;
 		color: #444545;
 	}
 
@@ -2221,7 +2221,7 @@ input, select, textarea {
 		.button.primary {
 			background-color: #444545;
 			box-shadow: none;
-			color: #C5E0D8 !important;
+			color: #E4F1ED !important;
 		}
 
 			input[type="submit"].primary:hover,
